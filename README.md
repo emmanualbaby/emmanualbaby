@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-My name is Emmanual Baby, and I'm a graduate interested in all things ML, AI, and Python.
+My name is Emmanual Baby, and I'm a graduate interested in everything related to ML, AI, and Python.
 
-- I'm currently learning and aspiring to be a Python developer with a focus on Artificial Intelligence and Machine Learning.
-- I'm looking to collaborate on YouTube videos.
-
+- I'm currently learning and aspiring to become a Python developer with a focus on Artificial Intelligence and Machine Learning.
+- I’m also looking to collaborate on YouTube videos.
 
 
 ## 🧠 Languages and Tools
