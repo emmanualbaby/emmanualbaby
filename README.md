@@ -6,7 +6,7 @@ My name is Emmanual Baby, and I'm a graduate interested in everything related to
 - I’m also looking to collaborate on YouTube videos.
 
 
-## 🧠 Languages and Tools 
+## 🧠 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
